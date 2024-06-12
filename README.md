@@ -1,4 +1,4 @@
-# Destiny 2 Destiny Item Manager Wishlists
+# Destiny 2 DIM (Destiny Item Manager) Wishlists
 
 ## Introduction
 
